@@ -1,0 +1,16 @@
+body{
+    background-color: rgb(13, 170, 228);
+    text-align: center;
+    color:rgb(187, 26, 26);
+    font-family: verdana;
+    font-size: 20px;
+    font-family: "Times New Roman";
+}
+
+article{
+    font-size: 20px;
+}
+}
+footer{
+    color:red;
+}
